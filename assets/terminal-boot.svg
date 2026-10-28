@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" role="img" aria-labelledby="title desc">
+  <title id="title">Akash Ajith — Profile Terminal</title>
+  <desc id="desc">Akash Ajith is a third-year B.Tech Computer Science student at CUSAT. His junior web development internships were at Tatos and Ariussoft.</desc>
+  <defs>
+    <linearGradient id="terminal" x2="0" y2="1"><stop stop-color="#12081f"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+  </defs>
+  <rect x="4" y="4" width="892" height="372" rx="14" fill="url(#terminal)" stroke="#7e15f7" stroke-width="1.5"/>
+  <path d="M18 5H882A13 13 0 0 1 895 18V43H5V18A13 13 0 0 1 18 5Z" fill="#161b22"/>
+  <circle cx="30" cy="24" r="6" fill="#ff5f56"/><circle cx="52" cy="24" r="6" fill="#ffbd2e"/><circle cx="74" cy="24" r="6" fill="#27c93f"/>
+  <text x="450" y="28" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#8b949e">akash@github: ~</text>
+  <g font-family="'Courier New', monospace" font-size="19" fill="#e6e6ff">
+    <text x="30" y="80"><tspan fill="#b347ff">$ </tspan>whoami<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.02;.88;.94;1" dur="14s" repeatCount="indefinite"/></text>
+    <text x="30" y="112" fill="#ff6ef7">&gt; Akash Ajith | Computer Science Student &amp; Web Developer<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.1;.88;.94;1" dur="14s" repeatCount="indefinite"/></text>
+    <text x="30" y="162"><tspan fill="#b347ff">$ </tspan>cat education.txt<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.2;.88;.94;1" dur="14s" repeatCount="indefinite"/></text>
+    <text x="30" y="194">&gt; CUSAT | B.Tech Computer Science | Third Year<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.3;.88;.94;1" dur="14s" repeatCount="indefinite"/></text>
+    <text x="30" y="244"><tspan fill="#b347ff">$ </tspan>cat internships.txt<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.45;.88;.94;1" dur="14s" repeatCount="indefinite"/></text>
+    <text x="30" y="276" fill="#7effa0">&gt; Junior Web Development | Tatos + Ariussoft | Completed<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.6;.88;.94;1" dur="14s" repeatCount="indefinite"/></text>
+    <text x="30" y="328" fill="#b347ff">$</text>
+  </g>
+  <rect x="49" y="312" width="11" height="20" fill="#b347ff"><animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1s" repeatCount="indefinite"/></rect>
+</svg>
