@@ -143,7 +143,7 @@ I've also learned **GitHub for version control**, **Vercel for hosting**, and **
 
 ## 🤝 Let's Connect
 
-Connect with me to talk about **web development**, **Computer Science**, and **student projects**.
+Connect with me to talk about **Web Development**, **Computer Science**, and **student projects**.
 
 * 🌐 **Frontend** — React, HTML, CSS, and Bootstrap
 * 🔧 **Backend** — Node.js, PHP, and Supabase
